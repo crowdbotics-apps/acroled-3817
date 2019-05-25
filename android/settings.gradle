@@ -1,0 +1,3 @@
+rootProject.name = 'acroled_3817'
+
+include ':app'
